@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a93a4db49366167479cfca1b6531e0a5, type: 3}
+  m_Name: Dinosaurs
+  m_EditorClassIdentifier: 
+  itemGroup: 2
+  groupSprite: {fileID: 21300000, guid: 1a64f18409794f84bb3dd5c048892b26, type: 3}
+  itemSprites:
+  - {fileID: 21300000, guid: 39b769f9daa44e9478e39bd7ba680cf4, type: 3}
+  - {fileID: 21300000, guid: 09c2c90f12fe4314eb940f776422a65d, type: 3}
+  - {fileID: 21300000, guid: 99c724c607793784fa152f47a98468d1, type: 3}
+  - {fileID: 21300000, guid: 45363e264306b4f47b618c08ffc3f4cd, type: 3}
+  - {fileID: 21300000, guid: 1b50f66b22bc87a41930e9b0ebd33603, type: 3}
